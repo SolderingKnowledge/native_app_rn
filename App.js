@@ -5,7 +5,7 @@ export default function App() {
   const [text, setText] = useState("Hello there!")
   return (
     <View style={styles.container}>
-<Text>{text}</Text>
+      <Text>{text}</Text>
       <Button title ="click me" onPress ={ ()=> setText("How are you?")} />
     </View>
   );
