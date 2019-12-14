@@ -8,7 +8,9 @@
 
 5 if you want to run simulators  ==> 1) android=> `android studio`,  2) if ios=> `xcode`
 
+6  `npm install --save redux react-redux react-navigation react-navigation-header-buttons`
 
+7 `expo install react-native-gesture-handler react-native-reanimated`
 
 ## env:
 
